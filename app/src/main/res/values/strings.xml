@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="page1">Page 1</string>
+    <string name="page2">Page 2</string>
+    <string name="data">Name: Ana Oliveira|Number: 24673</string>
+    <string name="activity1">Activity 1</string>
+    <string name="activity2">Activity 2</string>
+
+</resources>

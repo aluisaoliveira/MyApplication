@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A minha aplicação</string>
+    <string name="page1">Página 1</string>
+    <string name="page2">Página 2</string>
+    <string name="data">Nome: Ana Oliveira|Número: 24673</string>
+    <string name="activity1">Atividade 1</string>
+    <string name="activity2">Atividade 2</string>
+</resources>
